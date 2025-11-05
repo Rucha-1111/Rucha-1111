@@ -1,4 +1,4 @@
-## 👋 Hey fellow coder, I’m Rucha!
+## 👋 Hii, I’m Rucha!
 
 > 🎮 “Life’s basically one big open-world game — I just chose the Software Developer path.”  
 
