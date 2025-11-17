@@ -34,10 +34,9 @@
 
 ---
 
-### 🧭 Quests in Progress
-- **LeetCode Grind Mode Activated** — [Track My Struggle Here]((https://leetcode.com/u/Rucha-Gade/)) 
+### 🧭 Quests I am On 
+- **LeetCode Grind Mode Activated** — [Track My Struggle Here](https://leetcode.com/u/Rucha-Gade/) 
 - 🌐 Building my **Portfolio Website** — [Check it out here](https://your-portfolio-link.com)  
-- 🧩 Exploring new frameworks and projects that make life easier (or cooler)  
 
 ---
 
@@ -45,8 +44,8 @@
 - 🎶 I have a playlist for every coding mood — from *“debug despair”* to *“deployment victory”*  
 - 📚 I once told myself “I’ll just read one chapter” and finished the entire book.  
 - 💬 My most used phrase while coding: `“Why isn’t this working!?”` followed by “Oh.”  
-- 🕹️ My dream job: Getting paid to code cool stuff while sipping coffee near my cats.  
-- 🔥 Secret skill: Turning caffeine into clean commits.  
+- 🕹️ My dream job: Getting paid to code cool stuff while sipping tea near my cats.  
+- 🔥 Secret skill: Turning tea 🍵 into clean commits.  
 - 💡 Motto: *If life throws an exception, handle it gracefully.*  
 
 ---
@@ -58,8 +57,8 @@
 > If you’re here for collabs, coding, or caffeine-fueled chaos — hit me up! ☕  
 
 📫 **Reach Me At:**  
-- ✉️ [Email Me](mailto:your.email@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- ✉️ [Email Me](mailto:ruchagade20@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rucha-gade)  
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
 
 ---
