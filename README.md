@@ -35,7 +35,7 @@
 ---
 
 ### 🧭 Quests in Progress
-- **LeetCode Grind Mode Activated** — [Track My Struggle Here](https://leetcode.com/) 
+- **LeetCode Grind Mode Activated** — [Track My Struggle Here]((https://leetcode.com/u/Rucha-Gade/)) 
 - 🌐 Building my **Portfolio Website** — [Check it out here](https://your-portfolio-link.com)  
 - 🧩 Exploring new frameworks and projects that make life easier (or cooler)  
 
