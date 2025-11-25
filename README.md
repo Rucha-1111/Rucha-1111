@@ -21,7 +21,7 @@
 | 💻 Languages     | Java ☕ | JavaScript ⚡ • Python 🐍 • C++ 🧩 |
 | ☁️ AWS Services  | Lambda ⚡ • S3 📦 • DynamoDB 🔥 • API Gateway 🌐 • IAM 🔐 |
 | 🧩 Tools & Tech  | GitHub • VS Code • Postman |
-| 🧠 Core Power    | DSA (LEETCODE ⚡) |
+| 🧠 Core Power    | DSA (LEETCODE ⚡) |  
 | 💬 Soft Skills   | Communication 🗣️• Problem Solving • Creative Thinking🎨 |
 
 ---
@@ -36,7 +36,8 @@
 
 ### 🧭 Quests I am On 
 - **LeetCode Grind Mode Activated** — [Track My Struggle Here](https://leetcode.com/u/Rucha-Gade/) 
-- 🌐 Building my **Portfolio Website** — [Check it out here](https://your-portfolio-link.com)  
+- 🌐 Building my **Portfolio Website** — [Check it out here](https://your-portfolio-link.com)
+- **HackerRank Too!!!** — [Check it out FAST](https://www.hackerrank.com/profile/ruchagade20)
 
 ---
 
