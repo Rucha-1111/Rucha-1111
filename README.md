@@ -27,11 +27,9 @@
 ---
 ### 📈 My Live Game Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rucha-1111&show_icons=true&theme=radical&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rucha-1111&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rucha-1111&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rucha-1111&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rucha-1111&layout=compact&theme=radical)
 
 ---
 
