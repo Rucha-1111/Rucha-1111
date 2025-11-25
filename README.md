@@ -22,7 +22,7 @@
 | 🧰 Frameworks & Libraries | Node.js 🌲 • Express 🚏 • React ⚛️ • Spring Boot 🌼 |
 | 🗄️ Databases     | MongoDB 🍃 • SQL 📘 • PostgreSQL 🐘 |
 | ☁️ AWS Services  | Lambda ⚡ • S3 📦 • DynamoDB 🔥 • API Gateway 🌐 • IAM 🔐 |
-| 🧩 Tools & Tech  | GitHub • VS Code • Postman |
+| 🧩 Tools & Tech  | Git • GitHub • VS Code • Postman |
 | 🧠 Core Power    | DSA (LeetCode ⚡ • HackerRank 🟩) |
 | 💬 Soft Skills   | Communication 🗣️ • Problem Solving • Creative Thinking 🎨 |
 
