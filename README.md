@@ -15,21 +15,17 @@
 
 ### ⚡️ My Skills (Inventory)
 > “A developer is only as strong as their stack.”
-
+> 
 | Skill Type       | Arsenal |
 |------------------|---------|
-| 💻 Languages     | Java ☕ • JavaScript ⚡ • Python 🐍 • C++ 🧩 • C 👀|
+| 💻 Languages & Web Tech | Java ☕ • JavaScript ⚡ • Python 🐍 • C++ 🧩 • C 👀 • HTML 🌐 • CSS 🎨 |
+| 🧰 Frameworks & Libraries | Node.js 🌲 • Express 🚏 • React ⚛️ • Spring Boot 🌼 |
+| 🗄️ Databases     | MongoDB 🍃 • SQL 📘 • PostgreSQL 🐘 |
 | ☁️ AWS Services  | Lambda ⚡ • S3 📦 • DynamoDB 🔥 • API Gateway 🌐 • IAM 🔐 |
 | 🧩 Tools & Tech  | GitHub • VS Code • Postman |
-| 🧠 Core Power    | DSA (LEETCODE ⚡) |  
-| 💬 Soft Skills   | Communication 🗣️• Problem Solving • Creative Thinking🎨 |
+| 🧠 Core Power    | DSA (LeetCode ⚡ • HackerRank 🟩) |
+| 💬 Soft Skills   | Communication 🗣️ • Problem Solving • Creative Thinking 🎨 |
 
----
-### 📈 My Live Game Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rucha-1111&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rucha-1111&layout=compact&theme=radical)
 
 ---
 
