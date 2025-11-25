@@ -18,7 +18,7 @@
 
 | Skill Type       | Arsenal |
 |------------------|---------|
-| 💻 Languages     | Java ☕ | JavaScript ⚡ • Python 🐍 • C++ 🧩 • C 👀|
+| 💻 Languages     | Java ☕ • JavaScript ⚡ • Python 🐍 • C++ 🧩 • C 👀|
 | ☁️ AWS Services  | Lambda ⚡ • S3 📦 • DynamoDB 🔥 • API Gateway 🌐 • IAM 🔐 |
 | 🧩 Tools & Tech  | GitHub • VS Code • Postman |
 | 🧠 Core Power    | DSA (LEETCODE ⚡) |  
