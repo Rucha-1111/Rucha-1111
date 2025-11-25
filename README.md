@@ -18,19 +18,11 @@
 
 | Skill Type       | Arsenal |
 |------------------|---------|
-| 💻 Languages     | Java ☕ | JavaScript ⚡ • Python 🐍 • C++ 🧩 |
+| 💻 Languages     | Java ☕ | JavaScript ⚡ • Python 🐍 • C++ 🧩 • C 👀|
 | ☁️ AWS Services  | Lambda ⚡ • S3 📦 • DynamoDB 🔥 • API Gateway 🌐 • IAM 🔐 |
 | 🧩 Tools & Tech  | GitHub • VS Code • Postman |
 | 🧠 Core Power    | DSA (LEETCODE ⚡) |  
 | 💬 Soft Skills   | Communication 🗣️• Problem Solving • Creative Thinking🎨 |
-
----
-
-### 📈 My Live Game Stats
-
-![Rucha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rucha-1111&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rucha-1111&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rucha-1111&theme=radical)
 
 ---
 
