@@ -25,6 +25,15 @@
 | 💬 Soft Skills   | Communication 🗣️• Problem Solving • Creative Thinking🎨 |
 
 ---
+### 📈 My Live Game Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rucha-1111&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rucha-1111&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rucha-1111&theme=radical)
+
+---
 
 ### 🧭 Quests I am On 
 - **LeetCode Grind Mode Activated** — [Track My Struggle Here](https://leetcode.com/u/Rucha-Gade/) 
