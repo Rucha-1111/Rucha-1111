@@ -49,10 +49,9 @@ This technical knowledge allows me to collaborate effectively with engineers and
 ### 🧭 Writing Portfolio & Projects
 - 📄 **REST API Documentation Sample** – Developer-focused API docs with request/response examples  
 - 📄 **Backend Workflow Documentation** – System flow and process explanation  
-- 📄 **AWS Beginner Guide** – Step-by-step technical tutorial  
 - ✍️ **Technical Articles on LinkedIn** – Regular posts explaining backend and system concepts  
 
-> All documentation samples are available in this GitHub profile and linked repositories.
+> All documentation samples are available in this GitHub profile and LinkedIn Articles.
 
 ---
 
@@ -67,7 +66,7 @@ This technical knowledge allows me to collaborate effectively with engineers and
 ### 📫 Connect With Me
 - ✉️ Email: [ruchagade20@gmail.com](mailto:ruchagade20@gmail.com)  
 - 💼 LinkedIn: https://www.linkedin.com/in/rucha-gade  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+- 🌐 Portfolio: https://rucha-1111.github.io/Portfolio/  
 
 ---
 
