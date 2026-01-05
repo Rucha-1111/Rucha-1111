@@ -5,17 +5,22 @@
 ---
 
 ### 🧠 About Me
-I am an aspiring **Technical Writer and Documentation Specialist** with a strong foundation in software development and backend systems.  
-I enjoy working at the intersection of **technology, communication, and problem-solving**, where I can translate complex technical concepts into clear, structured, and user-focused content.
+I write code that works—and documentation that explains **why it works** (so no one has to reverse-engineer it later).
 
-I am particularly interested in:
-- Creating **developer-friendly API documentation**
-- Writing **clear user guides and onboarding material**
-- Translating **business requirements into functional documentation**
-- Documenting **system workflows, backend logic, and error-handling strategies**
-- Improving product usability through **well-structured, easy-to-navigate documentation**
+With hands-on experience in **backend development**, **system logic**, and **workflows**, I enjoy building software and then making it understandable for humans.
 
-My technical background allows me to understand how systems are built, which helps me create documentation that is accurate, practical, and aligned with real-world use cases.
+I work across **feature implementation**, **APIs**, **backend workflows**, **error handling**, and **system flows**, translating business requirements into both functional code and clear, developer-friendly documentation. I’m comfortable switching between coding and writing, and I believe good software isn’t finished until someone else can pick it up and say:
+
+> *“Yep, this makes sense.”*
+
+### What I do
+- Design and implement **backend features** with a focus on clarity, maintainability, and real-world usage  
+- Document **REST APIs** with clear endpoints, request/response examples, and edge cases  
+- Write **system and workflow documentation** explaining how components interact behind the scenes  
+- Translate **business and product requirements** into technical implementations and supporting documentation  
+- Document **error handling, validations, and failure scenarios** to reduce ambiguity during development and testing  
+- Create **developer-friendly guides** for onboarding, usage, and internal knowledge sharing  
+- Collaborate with developers and stakeholders to keep documentation **accurate and in sync with the code**
 
 ---
 
