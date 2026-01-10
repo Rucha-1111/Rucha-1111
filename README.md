@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-I write code that works - and documentation that explains **why it works** (so no one has to reverse-engineer it later).
+I write code that works - and **_documentation_** that explains **why it works** (so no one has to reverse-engineer it later).
 
 With hands-on experience in **backend development**, **system logic**, and **workflows**, I enjoy building software and then making it understandable for humans.
 
