@@ -45,9 +45,9 @@ rucha = {
 
 📫 ruchagade20@gmail.com
 
-💼 [linkedin.com/in/rucha-gade](https://www.linkedin.com/in/rucha-gade/)
+💼 [LinkedIn](https://www.linkedin.com/in/rucha-gade/)
 
-🌐 [rucha-1111.github.io/Portfolio](https://rucha-1111.github.io/Portfolio)
+🌐 [Portfolio](https://rucha-1111.github.io/Portfolio)
 
 ---
 
