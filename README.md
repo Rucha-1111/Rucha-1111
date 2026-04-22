@@ -1,55 +1,74 @@
-# Rucha 
+<div align="center">
 
-> *I make data confess and code behave.*
+# Rucha Gade 
 
----
+*builds AI tools that do actual work · cloud systems that don't fall over · docs the next dev won't cry over*
 
-CS undergrad (2026) who speaks Python, thinks in systems, and writes documentation that humans actually read.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rucha-gade/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://rucha-1111.github.io/Portfolio)
+[![Gmail](https://img.shields.io/badge/-ruchagade20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ruchagade20@gmail.com)
 
-BA brain. Python hands. Occasionally unhinged. 🎯
-
----
-
-### what I do
-
-| thing | how |
-|---|---|
-| AI apps that do real work | LLMs • Python • LangChain |
-| ML pipelines & fraud detection | Scikit-learn • Pandas • SQL |
-| data that tells a story | Matplotlib • Seaborn • Power BI |
-| docs that survive handoffs | BRD • FRD • BABOK • Notion |
+</div>
 
 ---
 
-### currently
+### 🧠 the mental model
 
-- 🤖 AI tools that integrate with GitHub (yes, real ones)
-- 🧠 LLMs with actual memory (unlike me before coffee)
-- 📊 turning data nobody wanted to look at into insights everyone fights over
-  
+```
+problem → understand it fully → design it → build it → document it → ship it
+              ↑ this step is non-negotiable
+```
+
+CS undergrad (2026) who speaks Python, thinks in systems, and refuses to push undocumented code.  
+<i>BA brain. Cloud hands. Occasionally building things that roast developers for sport. </i>
+
 ---
 
-### stack
+### ⚡ what I actually do
 
-```python
-rucha = {
-    "languages"  : ["Python", "SQL", "JavaScript", "R"],
-    "AI/ML"      : ["Scikit-learn", "Pandas", "NumPy", "LLM APIs"],
-    "cloud"      : ["AWS Lambda", "S3", "DynamoDB", "API Gateway"],
-    "BA"         : ["BRD", "FRD", "BABOK", "stakeholder wrangling"],
-    "currently"  : "building something embarrassing for ChatGPT 🫡"
-}
+| 🔧 domain | 🛠️ tools | 🎯 vibe |
+|---|---|---|
+| AI-powered apps | LLMs · Groq API · Prompt Engineering | make the model do the work |
+| serverless cloud | AWS Lambda · S3 · DynamoDB · API Gateway | no servers, no problems |
+| data & ML | Pandas · Scikit-learn · NLP · OCR | make data confess |
+| frontend | React.js · HTML · CSS | it has to look good too |
+| docs & systems | BRD · FRD · BABOK · System Design | future-me says thank you |
+
+---
+
+### 🗺️ skill map
+
+```
+Python           ████████████████████  🔥 daily driver
+AWS / Serverless ████████████████░░░░  ⚡ lambda everything
+LLM / Groq API   █████████████████░░░  🤖 in my era
+NLP / OCR        ███████████████░░░░░  🧠 text extraction obsessed
+SQL              ████████████████░░░░  🗄️ reliable as ever
+Pandas / NumPy   █████████████████░░░  📊 data wrangler
+Prompt Eng.      ████████████████████  ✍️ make the model behave
+System Design    ████████████████░░░░  📐 think before building
 ```
 
 ---
 
-📫 ruchagade20@gmail.com
+### 🌱 right now
 
-💼 [LinkedIn](https://www.linkedin.com/in/rucha-gade/)
-
-🌐 [Portfolio](https://rucha-1111.github.io/Portfolio)
+- 🤖 building AI tools that actually integrate with real workflows
+- ☁️ going deeper into serverless architecture patterns
+- 📖 reading about systems I haven't broken yet
 
 ---
 
-*open to internships and collabs.*
-*not available for meetings that could've been an email.* 😇
+### 🎲 random(rucha)
+
+```python
+facts = [
+    "will document the code before calling it done 📝",
+    "has strong opinions about DynamoDB schema design 🗄️",
+    "reads the whole problem before opening the editor 🧩",
+    "built a tool that roasts GitHub profiles — yes, including yours 🔥",
+    "graduating 2026, already annoying seniors with good questions 🎓"
+]
+```
+
+---
