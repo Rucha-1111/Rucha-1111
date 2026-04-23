@@ -5,7 +5,7 @@
 *builds AI tools that do actual work · cloud systems that don't fall over · docs the next dev won't cry over*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rucha-gade/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://rucha-1111.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://rucha-1111.github.io/Rucha.s-Portfolio/)
 [![Gmail](https://img.shields.io/badge/-ruchagade20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ruchagade20@gmail.com)
 
 </div>
