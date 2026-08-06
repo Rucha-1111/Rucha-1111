@@ -80,7 +80,7 @@
       </p>
       <a href="https://github.com/Rucha-1111/rucha.gade.dev">🔗 View Repo</a>
       &nbsp;|&nbsp;
-      <a href="https://rucha-gade.dev">🌍 Live Site</a>
+      <a href="https://rucha-gade-dev.pages.dev/">🌍 Live Site</a>
     </td>
   </tr>
 </table>
