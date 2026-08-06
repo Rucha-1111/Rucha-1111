@@ -21,6 +21,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Java+%2B+Spring+Boot+Developer;Full+Stack+Engineer;I+build+things+that+don't+break+(mostly);Currently+shipping+side+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rucha-1111&style=flat-square&color=8A2BE2" alt="profile views" />
+</p>
+
+
 ---
 
 ### 🚀 Featured Projects
@@ -138,6 +143,3 @@
   <em>"Good software is read twice — once by users, once by developers."</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rucha-1111&style=flat-square&color=8A2BE2" alt="profile views" />
-</p>
