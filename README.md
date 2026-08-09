@@ -33,28 +33,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Expecto Offerum</h4>
-      <p>A Harry Potter–themed interview tracker to manage applications, rounds, and offers — because job hunting deserves a little magic.</p>
+      <h4>🌐 Portfolio</h4>
+      <p>My little corner of the internet where projects, experiments, skills, and questionable amounts of caffeine come together.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
-      <a href="https://github.com/Rucha-1111/Expecto-Offerum">🔗 View Repo</a>
+      <a href="https://github.com/Rucha-1111/rucha.gade.dev">🔗 View Repo</a>
       &nbsp;|&nbsp;
-      <a href="https://expecto-offerum.onrender.com/">🌍 Live Site</a>
+      <a href="https://rucha-gade-dev.pages.dev/">🌍 Live Site</a>
     </td>
     <td width="50%" valign="top">
       <h4>📚 The Chamber of Chapters</h4>
-      <p>A magical personal book tracker to organize your reading list, track progress, and build custom collections.</p>
+      <p>Basically, I built myself a Hogwarts library because apparently a normal book tracker wasn't enough.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
       <a href="https://github.com/Rucha-1111/The-Chamber-of-Chapters">🔗 View Repo</a>
       &nbsp;|&nbsp;
@@ -63,8 +63,24 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>🗂️ Task Forge</h4>
+      <p>A Kanban-powered team workspace where tasks get assigned, moved around, and eventually defeated.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Rucha-1111/Task-Forge">🔗 View Repo</a>
+      &nbsp;|&nbsp;
+      <a href="https://task-forge-lbt3.onrender.com/">🌍 Live Site</a>
+    </td>
+    <td width="50%" valign="top">
       <h4>📖 WhatDidIJustRead</h4>
-      <p>A platform for discovering and exploring bite-sized stories — quick reads for curious minds.</p>
+      <p>A story-discovery platform for when your attention span wants a snack, not a seven-course novel.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -73,19 +89,6 @@
       <a href="https://github.com/Rucha-1111/WhatDidIJustRead">🔗 View Repo</a>
       &nbsp;|&nbsp;
       <a href="https://whatdidijustread.pages.dev/">🌍 Live Site</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Portfolio</h4>
-      <p>My personal portfolio showcasing projects, experience, and technical skills — built to make a strong first impression.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      </p>
-      <a href="https://github.com/Rucha-1111/rucha.gade.dev">🔗 View Repo</a>
-      &nbsp;|&nbsp;
-      <a href="https://rucha-gade-dev.pages.dev/">🌍 Live Site</a>
     </td>
   </tr>
 </table>
@@ -109,11 +112,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rucha-1111&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rucha-1111&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rucha-1111&theme=radical&hide_border=true" />
