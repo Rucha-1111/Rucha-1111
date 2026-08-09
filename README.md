@@ -40,9 +40,9 @@
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
-      <a href="https://github.com/Rucha-1111/rucha.gade.dev">🔗 View Repo</a>
+      <a href="https://github.com/Rucha-1111/Portfolio">🔗 View Repo</a>
       &nbsp;|&nbsp;
-      <a href="https://rucha-gade-dev.pages.dev/">🌍 Live Site</a>
+      <a href="https://portfolio-45o.pages.dev/">🌍 Live Site</a>
     </td>
     <td width="50%" valign="top">
       <h4>📚 The Chamber of Chapters</h4>
