@@ -114,7 +114,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rucha-1111&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rucha-1111&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rucha-1111&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rucha-1111&theme=radical&hide_border=true" />
 </p>
 
 ---
